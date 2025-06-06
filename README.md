@@ -1,3 +1,4 @@
+git clone https://github.com/0xvileness/scraper.git
 
 pip install beautifulsoup4
 pip install requests
