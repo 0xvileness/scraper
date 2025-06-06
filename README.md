@@ -1,3 +1,5 @@
+A python script used for data scraping Tiktok accounts.
+
 git clone https://github.com/0xvileness/scraper.git
 
 pip install beautifulsoup4
